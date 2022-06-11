@@ -8,5 +8,7 @@ Desenvolvida uma versão paródia, chamada VELHOFLIX, com referência à séries
 
 Projeto em construção. Novas funcionalidades serão implementadas, futuramente.
 
+https://getuliovilanova.github.io/netflix-clone/
+
 
 
